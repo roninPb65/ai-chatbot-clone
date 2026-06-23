@@ -23,7 +23,7 @@ Desktop is the friendly app that does this for you.
 | **Branch** | A parallel version of the project where you can work without affecting `main`. |
 | **Pull Request** ("PR") | A request to merge your branch's changes into `main`, usually after review. |
 
----
+----
 
 ## Step 0 — Install and sign in
 
