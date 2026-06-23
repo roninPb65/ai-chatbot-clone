@@ -7,7 +7,7 @@ project. No command line required — everything happens with buttons and clicks
 snapshots online so you can back them up, share them, and work together. GitHub
 Desktop is the friendly app that does this for you.
 
-----
+-----
 
 ## Vocabulary (read this first — it's quick)
 
